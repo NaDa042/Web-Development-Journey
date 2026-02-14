@@ -1,0 +1,54 @@
+
+
+.frame{
+    border : 1px solid gainsboro;
+    width: 320px;
+    padding :10px;
+    box-sizing: border-box; 
+    box-shadow: 4px 10px 8px rgba(0, 0, 0, 0.5);
+    background-color: bisque;
+    margin: 0 auto;
+}
+
+.info{
+    border: 1px solid gainsboro;
+    padding : 10px;
+    background-color: antiquewhite;
+    margin-top: 10px;
+    
+}
+
+h3{
+    border: 1px solid gainsboro;
+    padding: 5px;
+    margin-top: 0;
+    
+}
+
+img{
+    border: 1px solid gainsboro;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    
+   
+}
+
+.fact{
+    font-style: italic;
+}
+
+.label{
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+    padding-left: 0;
+    
+}
+
+li{
+    margin-bottom: 3px;
+}
+
